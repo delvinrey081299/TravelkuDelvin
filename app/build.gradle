@@ -32,6 +32,9 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:25.12.0')
 
 
+    //library picasso
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+
     implementation 'com.google.firebase:firebase-database:19.3.0'
     implementation 'com.google.firebase:firebase-storage:16.0.4'
     implementation 'com.google.firebase:firebase-auth:16.0.5'
